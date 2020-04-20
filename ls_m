@@ -1,2 +1,5 @@
 #!/bin/bash
 echo "hola"
+ls
+/bin/ls
+/algo/mas/y/ya
